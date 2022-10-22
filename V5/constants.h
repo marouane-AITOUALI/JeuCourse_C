@@ -29,7 +29,7 @@
 
 #define SPEED_LIIMIT 10
 
-#define NUMBER_ENEMY_CAR 0
+#define NUMBER_ENEMY_CAR 2
 
 #define NUMBER_LIFES 10
 
